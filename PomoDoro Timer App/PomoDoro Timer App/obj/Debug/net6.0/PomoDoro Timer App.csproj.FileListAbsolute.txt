@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.AssemblyInfo.cs
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\bin\Debug\net6.0\PomoDoro Timer App.exe
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\bin\Debug\net6.0\PomoDoro Timer App.deps.json
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\bin\Debug\net6.0\PomoDoro Timer App.runtimeconfig.json
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\bin\Debug\net6.0\PomoDoro Timer App.dll
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\bin\Debug\net6.0\PomoDoro Timer App.pdb
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.dll
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\refint\PomoDoro Timer App.dll
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.pdb
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\PomoDoro Timer App.genruntimeconfig.cache
+C:\Users\USER\Desktop\New Projects\PomoDoro Timer App\PomoDoro Timer App\obj\Debug\net6.0\ref\PomoDoro Timer App.dll
